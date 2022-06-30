@@ -1,0 +1,19 @@
+name: AntiAFK
+author: [SlidexDE, Julicraft_44]
+main: SlidexDE\AntiAFK\Main
+api: 4.0.0
+version: 1.0.1
+
+commands:
+    afkreload:
+        usage: /afkreload
+        description: Reload AntiAFK config
+        permission: antiafk.cmd.reload
+
+permissions:
+    antiafk.cmd.reload:
+        default: op
+        description: Reload permission for AntiAFK
+    antiafk.bypass:
+        default: op
+        description: Allow you not to be kicked because of inactivity

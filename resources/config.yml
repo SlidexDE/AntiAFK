@@ -1,0 +1,16 @@
+# Please enter your time zone.
+# For example: Europe/London
+time.zone: "Europe/London"
+
+# Please enter the maximum AFK time that a player may have.
+# For example: PT(Number)(Time: H/M/S)
+afk.time: "PT10M"
+
+# Enter the message that should come when kicking players.
+kick.message: "§l§7» §r§cYou has been kicked from the server because you was too long inactive!"
+
+# Please enter the message that should come when you reload the config
+reload.config.message: "§cAntiAFK §8» §7The config of AntiAFK has been successfully reloaded!"
+
+# DON'T CHANGE THIS!
+version: "1.0.0"
