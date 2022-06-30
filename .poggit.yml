@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SlidexDE/AntiAFK
+build-by-default: true
+branches:
+- main
+projects:
+  AntiAFK:
+    path: ""
+...
