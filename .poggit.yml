@@ -5,4 +5,8 @@ branches:
 projects:
   AntiAFK:
     path: ""
+    lint:
+      phpstan: false
+    icon:
+      icon.png
 ...
