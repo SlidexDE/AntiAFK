@@ -9,3 +9,5 @@
 - Bypass: antiafk.bypass
 # Command
 - afkreload -> Reload the config.yml
+# Credits
+- Icon from www.flaticon.com
