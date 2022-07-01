@@ -22,7 +22,6 @@ class Main extends PluginBase implements Listener {
         $this->saveDefaultConfig();
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
         $this->getScheduler()->scheduleRepeatingTask(new AFKTask($this), 20);
-        $this->getLogger()->info("The AntiAFK plugin has been loaded successfully!");
     }
 
 
