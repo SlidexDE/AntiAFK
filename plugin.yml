@@ -1,5 +1,6 @@
 name: AntiAFK
-author: [SlidexDE, Julicraft_44]
+author: SlidexDE
+helper: Julicraft_44
 main: SlidexDE\AntiAFK\Main
 api: 4.0.0
 version: 1.0.1
