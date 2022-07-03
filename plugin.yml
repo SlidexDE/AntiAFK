@@ -3,7 +3,7 @@ author: SlidexDE
 helper: Julicraft_44
 main: SlidexDE\AntiAFK\Main
 api: 4.0.0
-version: 1.5.0
+version: 2.0.0
 
 commands:
     afkreload:
