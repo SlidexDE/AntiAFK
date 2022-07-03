@@ -1,5 +1,5 @@
 # AntiAFK
-## Information 
+## » Information 
  - This is a plugin that tries to prevent inactivity on your server.
 ## Features 
 - Configurable in config.yml
