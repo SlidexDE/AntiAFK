@@ -5,6 +5,7 @@
 - Configurable in config.yml
 - Reload command
 - Bypass permission
+- Webhook support in the config
 ## » Permissions
 - Reload command: antiafk.cmd.reload
 - Bypass: antiafk.bypass
