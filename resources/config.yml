@@ -1,0 +1,38 @@
+# Please enter your time zone.
+# For example: Europe/London
+time.zone: "Europe/London"
+
+# Please enter the maximum AFK time that a player may have.
+# For example: PT(Number)(Time: H/M/S)
+afk.time: "PT10M"
+
+# Enter the message that should come when kicking players.
+kick.message: "§l§7» §r§cYou has been kicked from the server because you was too long inactive!"
+
+# Please enter the message that should come when you reload the config
+reload.config.message: "§cAntiAFK §8» §7The config of AntiAFK has been successfully reloaded!"
+
+
+# ----- OPTIONAL -----
+
+# Please enter the link from the Discord webhook.
+# If you do not want to use this function, please leave it blank.
+webhook: ""
+
+# Please enter your title for the web hook.
+webhook.title: "AntiAFK kick"
+
+# Please enter the message that the webhook should send.
+# Use "{player}" to have the player's name inserted.
+webhook.message: "The player {player} was kicked off the server due to inactivity."
+
+# Please enter the message, which should be at the bottom.
+# Use "{date}" to have the date entered.
+webhook.footer: "{date}"
+
+# Please enter the colour code for the fave that the webhook should have.
+webhook.color: "15548997"
+
+
+# DON'T CHANGE THIS!
+version: "1.0.0"
