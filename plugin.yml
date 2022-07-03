@@ -14,7 +14,7 @@ commands:
 permissions:
     antiafk.cmd.reload:
         default: op
-        description: Reload permission for AntiAFK
+        description: Reload the permission for AntiAFK
     antiafk.bypass:
         default: op
         description: Allow you not to be kicked because of inactivity
