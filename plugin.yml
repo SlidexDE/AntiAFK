@@ -8,7 +8,7 @@ version: 1.5.0
 commands:
     afkreload:
         usage: /afkreload
-        description: Reload AntiAFK config
+        description: Reload the AntiAFK config
         permission: antiafk.cmd.reload
 
 permissions:
