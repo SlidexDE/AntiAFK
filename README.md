@@ -1,16 +1,14 @@
 # AntiAFK
 ## » Information 
  - This is a plugin that tries to prevent inactivity on your server.
-## Features 
+## » Features 
 - Configurable in config.yml
 - Reload command
 - Bypass permission
-## Update
+## » Update
 - There will be a great new update in the next few days
-## Permissions
+## » Permissions
 - Reload command: antiafk.cmd.reload
 - Bypass: antiafk.bypass
-## Command
+## » Command
 - afkreload -> Reload the config.yml
-## Credits
-- Icon from www.flaticon.com
