@@ -5,8 +5,6 @@
 - Configurable in config.yml
 - Reload command
 - Bypass permission
-## » Update
-- There will be a great new update in the next few days
 ## » Permissions
 - Reload command: antiafk.cmd.reload
 - Bypass: antiafk.bypass
