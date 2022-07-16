@@ -10,4 +10,4 @@
 - Reload command: antiafk.cmd.reload
 - Bypass: antiafk.bypass
 ## » Command
-- afkreload -> Reload the config.yml
+- afkreload --> Reload the config.yml
